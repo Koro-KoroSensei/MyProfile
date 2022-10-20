@@ -1,3 +1,23 @@
 body{
+
     margin: 15px; 
+    background: linear-gradient(45deg, rgb(112, 25, 25), black);
+    color: white;
+}
+div{
+    margin-bottom: 30px;
+}
+.leftsection{
+    width: 80%;
+    float: left;
+    text-align: justify;
+}
+.rightsection{
+    width: 80%;
+    float: right;
+    text-align: justify;
+}
+li{
+    font-size: large;
+    font-style: oblique;
 }
